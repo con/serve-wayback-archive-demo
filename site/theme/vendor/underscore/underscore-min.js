@@ -11,8 +11,8 @@ let opens = _____WB$wombat$assign$function_____("opens");
 }
 
 /*
-     FILE ARCHIVED ON 10:52:22 Mar 23, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 14:31:13 May 11, 2026.
+     FILE ARCHIVED ON 07:06:01 Jan 25, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:33:28 May 11, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -20,13 +20,13 @@ let opens = _____WB$wombat$assign$function_____("opens");
 */
 /*
 playback timings (ms):
-  captures_list: 0.493
-  exclusion.robots: 0.045
-  exclusion.robots.policy: 0.034
+  captures_list: 0.529
+  exclusion.robots: 0.054
+  exclusion.robots.policy: 0.044
   esindex: 0.01
-  cdx.remote: 9.795
-  LoadShardBlock: 85.903 (3)
-  PetaboxLoader3.datanode: 77.862 (4)
-  load_resource: 78.376
-  PetaboxLoader3.resolve: 34.715
+  cdx.remote: 52.403
+  LoadShardBlock: 231.426 (3)
+  PetaboxLoader3.resolve: 75.949 (3)
+  PetaboxLoader3.datanode: 227.255 (4)
+  load_resource: 113.669
 */
